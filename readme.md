@@ -103,3 +103,6 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Star Icon | For readme purposes | (https://ph.pinterest.com/pin/13299761393504730/) |
+| Images and GIFs | For background purposes | (https://ph.pinterest.com) |
+| Description | Description about the movies | google.com |
+

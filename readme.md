@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-This is a website feauturing two of my favorite movies, showcasing pages that can be redirected to the features of the chosen movie. It contains container manipulations that are both functional and visually engaging. My knowledge in HTML, CSS, and layout techniques helped me to create a user-friendly website.
+This is a website feauturing two of my all time favorite kicks, showcasing pages that can be redirected to the features of the chosen movie. It contains container manipulations that are both functional and visually engaging. My knowledge in HTML, CSS, and layout techniques helped me to create a user-friendly website.
 </div>
 
 <br />
